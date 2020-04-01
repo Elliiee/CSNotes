@@ -14,7 +14,7 @@ public class _671SecondMiniInBT {
         if (leftVal != -1 && rightVal != -1)
             return Math.min(leftVal, rightVal);
 
-        if (leftVal != -1)   // left is always smaller than the right ? assume, I guess so
+        if (leftVal != -1)
             return leftVal;
 
         return rightVal;
