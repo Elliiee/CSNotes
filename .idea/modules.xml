@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSNotes.iml" filepath="$PROJECT_DIR$/.idea/CSNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Offer/Offer.iml" filepath="$PROJECT_DIR$/Offer/Offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeII/TreeII.iml" filepath="$PROJECT_DIR$/TreeII/TreeII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10Tree/_10Tree.iml" filepath="$PROJECT_DIR$/_10Tree/_10Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11StackQueue/_11StackQueue.iml" filepath="$PROJECT_DIR$/_11StackQueue/_11StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12HashMap/_12HashMap.iml" filepath="$PROJECT_DIR$/_12HashMap/_12HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13String/_13String.iml" filepath="$PROJECT_DIR$/_13String/_13String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14ArrayAnd2DArray/_14ArrayAnd2DArray.iml" filepath="$PROJECT_DIR$/_14ArrayAnd2DArray/_14ArrayAnd2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15Graph/_15Graph.iml" filepath="$PROJECT_DIR$/_15Graph/_15Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16Bit/_16Bit.iml" filepath="$PROJECT_DIR$/_16Bit/_16Bit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1TwoPointers/_1TwoPointers.iml" filepath="$PROJECT_DIR$/_1TwoPointers/_1TwoPointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2Sort/_2Sort.iml" filepath="$PROJECT_DIR$/_2Sort/_2Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3Greedy/_3Greedy.iml" filepath="$PROJECT_DIR$/_3Greedy/_3Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5DivideConquer/_5DivideConquer.iml" filepath="$PROJECT_DIR$/_5DivideConquer/_5DivideConquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6Search/_6Search.iml" filepath="$PROJECT_DIR$/_6Search/_6Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_7DynamicProgramming/_7DynamicProgramming.iml" filepath="$PROJECT_DIR$/_7DynamicProgramming/_7DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_8Math/_8Math.iml" filepath="$PROJECT_DIR$/_8Math/_8Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9LinkedList/_9LinkedList.iml" filepath="$PROJECT_DIR$/_9LinkedList/_9LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_BinarySearch/_BinarySearch.iml" filepath="$PROJECT_DIR$/_BinarySearch/_BinarySearch.iml" />
+    </modules>
+  </component>
+</project>
