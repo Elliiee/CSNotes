@@ -15,7 +15,7 @@ public class _77Combinations {
             combinations.add(new ArrayList<>(combination));
             return;
         }
-        for (int i = start; i < n - k +1; i++){
+        for (int i = start; i <= n - k +1; i++){
             combination.add(i);
             backtracking(combination, combinations, i + 1, k - 1, n);
             combination.remove(combination.size() - 1);
