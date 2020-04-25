@@ -1,17 +1,16 @@
-public class _142LinkedListCycle {
-    public boolean hasCycle(ListNode head) {
-        if (head == null || head.next == null){
-            return false;
-        }
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while (slow != fast){
-            if (fast == null || fast.next == null)
-                return false;
+import java.util.HashSet;
+import java.util.Set;
 
-            slow = slow.next;
-            fast = fast.next.next;
+public class _142LinkedListCycle {
+    public ListNode detectCycle(ListNode head) {
+        Set<ListNode> visited = new HashSet<>();
+        ListNode cur = head;
+        while (cur != null){
+            if (visited.contains(cur))
+                return cur;
+            visited.add(cur);
+            cur = cur.next;
         }
-        return true;
+        return null;
     }
 }
