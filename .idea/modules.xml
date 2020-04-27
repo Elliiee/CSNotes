@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bit/Bit.iml" filepath="$PROJECT_DIR$/Bit/Bit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CSNotes.iml" filepath="$PROJECT_DIR$/.idea/CSNotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreArrayAndString/ExploreArrayAndString.iml" filepath="$PROJECT_DIR$/ExploreArrayAndString/ExploreArrayAndString.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" filepath="$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
