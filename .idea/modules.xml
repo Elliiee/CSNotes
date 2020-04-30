@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" filepath="$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NaryTree/NaryTree.iml" filepath="$PROJECT_DIR$/NaryTree/NaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Offer/Offer.iml" filepath="$PROJECT_DIR$/Offer/Offer.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreeII/TreeII.iml" filepath="$PROJECT_DIR$/TreeII/TreeII.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
