@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/NaryTree/NaryTree.iml" filepath="$PROJECT_DIR$/NaryTree/NaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Offer/Offer.iml" filepath="$PROJECT_DIR$/Offer/Offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreeII/TreeII.iml" filepath="$PROJECT_DIR$/TreeII/TreeII.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
       <module fileurl="file://$PROJECT_DIR$/_10Tree/_10Tree.iml" filepath="$PROJECT_DIR$/_10Tree/_10Tree.iml" />
