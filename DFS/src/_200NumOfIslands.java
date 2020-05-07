@@ -13,7 +13,7 @@ public class _200NumOfIslands {
             for (int j = 0; j < n; j++){
                 if (grid[i][j] != '0'){
                     dfs(grid, i, j);
-                    islandsNum++;
+                    islandsNum++; // NOte: after the dfs method, otherwise stack overflow or so error
                 }
             }
         }
