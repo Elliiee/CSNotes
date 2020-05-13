@@ -13,7 +13,7 @@ public class _46Permutations {
     private void backtracking(List<Integer> permute, List<List<Integer>> permutations, boolean[] visited, int[] nums){
         if (permute.size() == nums.length){
             permutations.add(new ArrayList<>(permute));
-            return;
+            return; // once it's executed, the rest of the code won't be executed.
         }
 
         for (int i = 0; i < visited.length; i++){
@@ -28,3 +28,4 @@ public class _46Permutations {
         }
     }
 }
+//Given a collection of distinct integers, return all possible permutations.
