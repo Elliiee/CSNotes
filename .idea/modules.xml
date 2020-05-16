@@ -10,6 +10,17 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CSNotes.iml" filepath="$PROJECT_DIR$/.idea/CSNotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExploreArrayAndString/ExploreArrayAndString.iml" filepath="$PROJECT_DIR$/ExploreArrayAndString/ExploreArrayAndString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreArrays101/ExploreArrays101.iml" filepath="$PROJECT_DIR$/ExploreArrays101/ExploreArrays101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreBinarySearch/ExploreBinarySearch.iml" filepath="$PROJECT_DIR$/ExploreBinarySearch/ExploreBinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreBinarySearchTree/ExploreBinarySearchTree.iml" filepath="$PROJECT_DIR$/ExploreBinarySearchTree/ExploreBinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreBinaryTree/ExploreBinaryTree.iml" filepath="$PROJECT_DIR$/ExploreBinaryTree/ExploreBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreHashTable/ExploreHashTable.iml" filepath="$PROJECT_DIR$/ExploreHashTable/ExploreHashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreLinkedList/ExploreLinkedList.iml" filepath="$PROJECT_DIR$/ExploreLinkedList/ExploreLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreNaryTree/ExploreNaryTree.iml" filepath="$PROJECT_DIR$/ExploreNaryTree/ExploreNaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreQueue&amp;Stack/ExploreQueue&amp;Stack.iml" filepath="$PROJECT_DIR$/ExploreQueue&amp;Stack/ExploreQueue&amp;Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreRecursionI/ExploreRecursionI.iml" filepath="$PROJECT_DIR$/ExploreRecursionI/ExploreRecursionI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreRecursionII/ExploreRecursionII.iml" filepath="$PROJECT_DIR$/ExploreRecursionII/ExploreRecursionII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExploreTrie/ExploreTrie.iml" filepath="$PROJECT_DIR$/ExploreTrie/ExploreTrie.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" filepath="$PROJECT_DIR$/LBLDBFS/LBLDBFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
