@@ -16,4 +16,11 @@ public class _213HouseRobberII {
         }
         return Math.max(include, exclude);
     }
+    /*
+    We can divide this problem to two sub problems:
+Let's take following example:
+Sub problem 1: rob house 1 ~ 8
+Sub problem 2: rob house 2 ~ 9
+And find the bigger one of these two sub problems.
+     */
 }
