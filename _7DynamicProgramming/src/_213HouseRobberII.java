@@ -8,13 +8,13 @@ public class _213HouseRobberII {
     }
 
     private int rob(int[] num, int lo, int hi) {
-        int include = 0, exclude = 0;
-        for (int j = lo; j <= hi; j++) {
-            int i = include, e = exclude;
-            include = e + num[j];
-            exclude = Math.max(e, i);
+        int preMax = 0, curMax = 0;
+        for (int i = lo; i <= hi; i++) {
+            int temp = curMax;
+            curMax = Math.max((preMax + num[i]), curMax);
+            preMax = temp;
         }
-        return Math.max(include, exclude);
+        return curMax;
     }
     /*
     We can divide this problem to two sub problems:
