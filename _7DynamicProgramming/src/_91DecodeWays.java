@@ -35,4 +35,25 @@ public class _91DecodeWays {
 
         return recursiveMemo(0, s);
     }
+
+    // Approach 2 Iterative
+    public int numDecodingsII(String s){
+        if (s == null || s.length() == 0)
+            return 0;
+
+        int[] dp = new int[s.length() + 1];
+        dp[0] = 1;
+        dp[1] = s.charAt(0) == '0' ? 0 : 1;
+        //Ways to decode a string of size 1 is 1. Unless the string is '0' which doesn't have any decode.
+
+        for (int i = 2; i < dp.length; i++){
+            if (s.charAt(i-1) != '0') // 1 digit is possible
+                dp[i] += dp[i-1];
+
+            int twoDigit = Integer.valueOf(s.substring(i-2, i));
+            if (twoDigit >= 10 && twoDigit <= 26) // 2 digit is possible
+                dp[i] += dp[i-2];
+        }
+        return dp[s.length()];
+    }
 }
