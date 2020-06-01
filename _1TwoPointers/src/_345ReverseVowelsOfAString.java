@@ -29,6 +29,6 @@ public class _345ReverseVowelsOfAString {
 
             }
         }
-        return new String(result);
+        return new String(result); // note how this convert a char array to String
     }
 }
