@@ -1,3 +1,5 @@
+package _4BinarySearch.src;
+
 public class _744SmallestLetterGreaterThanTarget {
     public char nextGreatestLetter(char[] letters, char target) {
         int l = 0, h = letters.length - 1;

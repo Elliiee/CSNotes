@@ -1,3 +1,5 @@
+package _4BinarySearch.src;
+
 public class _69SqrtX {
     public int mySqrt(int x) {
         if (x <= 1)
