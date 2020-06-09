@@ -3,7 +3,7 @@ package _4BinarySearch.src;
 public class BinarySearch {
     public int binarySearch(int[] nums, int target){
         int l = 0, h = nums.length - 1;
-        while (l < h){
+        while (l <= h){ // note there is "="
             int m = l + (h - l) / 2;
             if (nums[m] == target){
                 return m;
