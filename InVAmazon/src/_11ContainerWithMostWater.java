@@ -1,3 +1,5 @@
+package InVAmazon.src;
+
 public class _11ContainerWithMostWater {
     public int maxArea(int[] height) {
         int maxArea = 0, l = 0, r = height.length - 1;
