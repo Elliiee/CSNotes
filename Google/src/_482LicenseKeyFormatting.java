@@ -1,3 +1,5 @@
+package Google.src;
+
 public class _482LicenseKeyFormatting {
     public String licenseKeyFormatting(String S, int K) {
         S = S.replaceAll("-", "").toUpperCase();
