@@ -5,7 +5,12 @@ import java.util.*;
 public class _1TopKFrequentKeyword {
     public static List<String> solve(int k, String[] keywords, String[] reviews){
         List<String> res = new ArrayList<>();
-        Set<String> set = new HashSet<>(Arrays.asList(keywords));
+
+        Set<String> set = new HashSet<>();
+        for(String key : keywords){
+            set.add(key.toLowerCase());
+        }
+
         Map<String, Integer> map = new HashMap<>();
         for (String r : reviews){
             String[] strs = r.split("\\W");
